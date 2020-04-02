@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/login-simplyplanned/precache-manifest.533da8a1e9bc631569313651fcb4e3d7.js"
+  "/login-simplyplanned/precache-manifest.9246783b0dbfd8d5e68e0f21c8464fd7.js"
 );
 
 self.addEventListener('message', (event) => {

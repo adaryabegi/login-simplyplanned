@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "745d66cf8bd2b3841a9e97e283c42132",
+    "revision": "a55b55fb573cfee9fe515028fbe71f8e",
     "url": "/login-simplyplanned/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/login-simplyplanned/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "486be9d51ec9b3de17b3",
-    "url": "/login-simplyplanned/static/css/main.b5707c2d.chunk.css"
+    "revision": "e8b77d55331dd571a2b7",
+    "url": "/login-simplyplanned/static/css/main.780d01b8.chunk.css"
   },
   {
     "revision": "ee7d68a63da4ec83a61a",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/login-simplyplanned/static/js/2.c8e5ad52.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "486be9d51ec9b3de17b3",
+    "revision": "e8b77d55331dd571a2b7",
     "url": "/login-simplyplanned/static/js/main.633497ba.chunk.js"
   },
   {
