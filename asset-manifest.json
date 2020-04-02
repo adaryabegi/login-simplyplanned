@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/login-simplyplanned/static/css/main.b5707c2d.chunk.css",
+    "main.js": "/login-simplyplanned/static/js/main.633497ba.chunk.js",
+    "main.js.map": "/login-simplyplanned/static/js/main.633497ba.chunk.js.map",
+    "runtime-main.js": "/login-simplyplanned/static/js/runtime-main.a9254bee.js",
+    "runtime-main.js.map": "/login-simplyplanned/static/js/runtime-main.a9254bee.js.map",
+    "static/css/2.de424728.chunk.css": "/login-simplyplanned/static/css/2.de424728.chunk.css",
+    "static/js/2.c8e5ad52.chunk.js": "/login-simplyplanned/static/js/2.c8e5ad52.chunk.js",
+    "static/js/2.c8e5ad52.chunk.js.map": "/login-simplyplanned/static/js/2.c8e5ad52.chunk.js.map",
+    "index.html": "/login-simplyplanned/index.html",
+    "precache-manifest.533da8a1e9bc631569313651fcb4e3d7.js": "/login-simplyplanned/precache-manifest.533da8a1e9bc631569313651fcb4e3d7.js",
+    "service-worker.js": "/login-simplyplanned/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/login-simplyplanned/static/css/2.de424728.chunk.css.map",
+    "static/css/main.b5707c2d.chunk.css.map": "/login-simplyplanned/static/css/main.b5707c2d.chunk.css.map",
+    "static/js/2.c8e5ad52.chunk.js.LICENSE.txt": "/login-simplyplanned/static/js/2.c8e5ad52.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/login-simplyplanned/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9254bee.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.c8e5ad52.chunk.js",
+    "static/css/main.b5707c2d.chunk.css",
+    "static/js/main.633497ba.chunk.js"
+  ]
+}
